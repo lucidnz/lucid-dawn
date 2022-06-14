@@ -117,6 +117,7 @@
                         {%- endif -%}
 
                         {%- for property in item.properties -%}
+                        {%- if property.first contains 'Gift' -%}{%- continue -%}{%- endif -%}
                           {%- assign property_first_char = property.first | slice: 0 -%}
                           {%- if property.last != blank and property_first_char != '_' -%}
                             <div class="product-option">
