@@ -1,15 +1,15 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#5b5151",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#d82148",
     "gradient_accent_2": "",
-    "colors_text": "#121212",
-    "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#ffffff",
+    "colors_text": "#5b5151",
+    "colors_outline_button_labels": "#5b5151",
+    "colors_background_1": "#f4f1ef",
     "gradient_background_1": "",
-    "colors_background_2": "#f3f3f3",
+    "colors_background_2": "#ffffff",
     "gradient_background_2": "",
     "type_header_font": "poppins_n5",
     "heading_scale": 100,
@@ -106,7 +106,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
@@ -121,8 +121,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 90,
-          "logo_position": "top-left",
+          "logo": "shopify:\/\/shop_images\/Screen_Shot_2022-06-15_at_4.14.53_PM.png",
+          "logo_width": 150,
+          "logo_position": "top-center",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "show_line_separator": true,
