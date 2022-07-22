@@ -6,25 +6,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Main Heading",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_1": "Los Poblanos",
+            "button_link_1": "shopify:\/\/collections\/familiar-names_los-poblanos",
+            "button_style_secondary_1": false,
+            "button_label_2": "Lollia",
+            "button_link_2": "shopify:\/\/collections\/lollia",
             "button_style_secondary_2": false
           }
         }
@@ -35,16 +35,18 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/ManKit2_1080x_32355ed4-f827-4ba3-a430-53aa56d59b78.png",
+        "image_2": "shopify:\/\/shop_images\/SLIDERLolliaPink_720x_0c6e0d7b-9948-4fab-8ccd-ea3860bd6709.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text": {

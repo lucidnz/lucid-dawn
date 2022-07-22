@@ -105,7 +105,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Steelz Everyday Luxury is now Maison & Tavola",
               "color_scheme": "accent-2",
               "link": ""
             }
@@ -121,8 +121,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Dark_285262d7-524c-4fe3-9c89-ab6fa290145f.png",
-          "logo_width": 150,
+          "logo": "shopify:\/\/shop_images\/Maison_Tavola_Logo_Dark.png",
+          "logo_width": 200,
           "logo_position": "top-center",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
