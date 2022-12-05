@@ -112,7 +112,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "gifts-for-babies"
           }
         },
         "product": {
@@ -125,7 +125,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "gifts-for-babies"
           }
         }
       },
