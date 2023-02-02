@@ -55,7 +55,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "description": {
@@ -67,13 +67,13 @@
           "type": "complementary",
           "settings": {
             "block_heading": "Pairs well with",
-            "make_collapsible_row": false,
-            "icon": "price_tag",
+            "make_collapsible_row": true,
+            "icon": "lightning_bolt",
             "product_list_limit": 10,
             "products_per_page": 3,
             "pagination_style": "counter",
             "image_ratio": "square",
-            "enable_quick_add": false
+            "enable_quick_add": true
           }
         }
       },
