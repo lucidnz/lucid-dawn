@@ -2,6 +2,7 @@
   "sections": {
     "8db234ed-2881-4255-97fc-8eb4741ba39e": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "ac4cd17b-a6f4-414b-9c5a-3f6e28a48001": {
           "type": "caption",
@@ -44,21 +45,13 @@
       "blocks": {
         "title": {
           "type": "title",
-          "disabled": true,
           "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "Choose Level of Outcome",
-            "text_style": "subtitle"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "c2556745-5c55-4acc-993b-829f0cddafa9": {
@@ -114,7 +107,6 @@
       },
       "block_order": [
         "title",
-        "caption",
         "variant_picker",
         "c2556745-5c55-4acc-993b-829f0cddafa9",
         "quantity_selector",
@@ -135,8 +127,8 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "7f3944c3-a326-4153-90d4-2434e953d62b": {
