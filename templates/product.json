@@ -1,90 +1,22 @@
 {
   "sections": {
-    "8db234ed-2881-4255-97fc-8eb4741ba39e": {
-      "type": "rich-text",
-      "blocks": {
-        "ac4cd17b-a6f4-414b-9c5a-3f6e28a48001": {
-          "type": "caption",
-          "settings": {
-            "caption": "Maximize Flexibility & Minimize Complexity & Technical Debt",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--14576240361575__8db234ed-2881-4255-97fc-8eb4741ba39e-16757230389d656b98-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>{{ product.title }}<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "template--14576240361575__8db234ed-2881-4255-97fc-8eb4741ba39e-16757230389d656b98-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A no-code Shopify build will get you replatformed or rebased faster and more efficiently so you will have more bandwidth and a more robust foundation to focus on what’s next!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "ac4cd17b-a6f4-414b-9c5a-3f6e28a48001",
-        "template--14576240361575__8db234ed-2881-4255-97fc-8eb4741ba39e-16757230389d656b98-0",
-        "template--14576240361575__8db234ed-2881-4255-97fc-8eb4741ba39e-16757230389d656b98-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
         "title": {
           "type": "title",
-          "disabled": true,
           "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "1. Define Level of Outcome",
-            "text_style": "subtitle"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "c2556745-5c55-4acc-993b-829f0cddafa9": {
           "type": "price",
           "settings": {
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "6ae0baf8-e377-4d4c-850b-c5862ef3a208": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "5bff8881-b0c8-475c-be51-1e5b4f05ee4e": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block-price\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "disabled": true,
-          "settings": {
-            "color": "#e22120",
-            "font": "",
-            "font_size": ""
           }
         },
         "buy_buttons": {
@@ -97,32 +29,14 @@
           "type": "description",
           "settings": {
           }
-        },
-        "86170d1a-40da-470c-9400-610e49e77eb4": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "2. Select Add-Ons",
-            "make_collapsible_row": false,
-            "icon": "none",
-            "product_list_limit": 10,
-            "products_per_page": 4,
-            "pagination_style": "counter",
-            "image_ratio": "square",
-            "enable_quick_add": true
-          }
         }
       },
       "block_order": [
         "title",
-        "caption",
         "variant_picker",
         "c2556745-5c55-4acc-993b-829f0cddafa9",
-        "quantity_selector",
-        "6ae0baf8-e377-4d4c-850b-c5862ef3a208",
-        "5bff8881-b0c8-475c-be51-1e5b4f05ee4e",
         "buy_buttons",
-        "description",
-        "86170d1a-40da-470c-9400-610e49e77eb4"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -141,6 +55,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -155,73 +70,10 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "7f3944c3-a326-4153-90d4-2434e953d62b": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-0",
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-1",
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-2",
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "How Does it Work?",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "8db234ed-2881-4255-97fc-8eb4741ba39e",
     "main",
-    "related-products",
-    "7f3944c3-a326-4153-90d4-2434e953d62b"
+    "related-products"
   ]
 }
