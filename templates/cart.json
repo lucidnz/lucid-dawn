@@ -39,40 +39,10 @@
             "row_content": "<p>No. We will authorize your card for the full amount but you will be billed in phases—starting with discovery.<\/p>",
             "page": ""
           }
-        },
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-0",
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-1",
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-2",
-        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-3"
+        "template--14576240689255__39f96602-63f8-4efb-98f6-8152a35509aa-1675725437e3ab72fd-0"
       ],
       "settings": {
         "caption": "",
