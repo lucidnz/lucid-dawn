@@ -145,9 +145,9 @@
         "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Do I have to pay in-full upfront?",
+            "icon": "none",
+            "row_content": "<p>No. We will authorize your card for the full amount but you will be billed in phases—starting with discovery.<\/p>",
             "page": ""
           }
         },
