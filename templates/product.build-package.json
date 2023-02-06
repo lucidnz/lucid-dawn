@@ -101,9 +101,9 @@
         "86170d1a-40da-470c-9400-610e49e77eb4": {
           "type": "complementary",
           "settings": {
-            "block_heading": "2. Select Add-Ons",
-            "make_collapsible_row": false,
-            "icon": "none",
+            "block_heading": "Choose Add-Ons",
+            "make_collapsible_row": true,
+            "icon": "lightning_bolt",
             "product_list_limit": 8,
             "products_per_page": 4,
             "pagination_style": "counter",
@@ -126,7 +126,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
