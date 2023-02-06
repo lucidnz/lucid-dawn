@@ -40,8 +40,8 @@
       "reset": "Clear search term"
     },
     "cart": {
-      "view": "View my cart ({{ count }})",
-      "view_empty_cart": "View project summary",
+      "view": "View Project Summary ({{ count }})",
+      "view_empty_cart": "View Project Summary",
       "item_added": "Item added to project"
     },
     "share": {
