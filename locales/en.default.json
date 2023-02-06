@@ -472,6 +472,9 @@
       "failed_payment": {
         "payment_not_processed_text": "You haven’t been charged. Return to project summary to complete transaction.",
         "return_to_cart_button_label": "Return to project summary"
+      },
+      "thank_you": {
+        "return_to_store_link_label": "Continue Building Project"
       }
     },
     "page_titles": {
