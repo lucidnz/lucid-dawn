@@ -62,7 +62,7 @@
     "894cf9a4-2821-4631-8369-ad43ddaa28e3": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.cart-item__media {\n  width: 0;\n}\n\n.cart-item__details {\n  padding-left: 0;\n}\n<\/style>",
+        "custom_liquid": "<style>\n.cart-item__media {\n  width: 0;\n}\n\n.cart-item>td+td {\n  padding-left: 0;\n}\n\n@media screen and (max-width: 749px)\n.cart-item {\n  grid-template: none !important;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
