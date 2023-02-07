@@ -266,7 +266,7 @@
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
       "new_subtotal": "New subtotal",
-      "note": "Order special instructions",
+      "note": "Questions or Project Notes",
       "checkout": "Proceed to Authorization",
       "empty": "Project Empty",
       "cart_error": "There was an error while updating your project. Please try again.",
