@@ -261,7 +261,7 @@
       }
     },
     "cart": {
-      "title": "Your Project Summary",
+      "title": "Project Summary",
       "caption": "Scope of Work",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
@@ -478,7 +478,7 @@
       }
     },
     "page_titles": {
-      "shopping_cart": "Your Project Summary"
+      "shopping_cart": "Project Summary"
     }
   }
 }
