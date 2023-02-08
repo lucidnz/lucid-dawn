@@ -43,6 +43,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "187a644e-b0b3-478e-be7e-aba3c2068770": {
+          "type": "text",
+          "settings": {
+            "text": "Core Build",
+            "text_style": "uppercase"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -106,6 +113,7 @@
         }
       },
       "block_order": [
+        "187a644e-b0b3-478e-be7e-aba3c2068770",
         "title",
         "variant_picker",
         "c2556745-5c55-4acc-993b-829f0cddafa9",
