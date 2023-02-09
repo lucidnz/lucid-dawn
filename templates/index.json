@@ -18,14 +18,20 @@
             "heading_size": "h1"
           }
         },
+        "17f6ca92-858f-4cea-a475-64e4e9de7671": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our approach is not for everyone—but it might be for you!<\/p>"
+          }
+        },
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a": {
           "type": "button",
           "settings": {
             "button_label": "Get Started",
             "button_link": "shopify:\/\/products\/low-code-shopify-store-design-build",
             "button_style_secondary": false,
-            "button_label_2": "Why Low-Code?",
-            "button_link_2": "#",
+            "button_label_2": "Our Approach",
+            "button_link_2": "shopify:\/\/pages\/approach",
             "button_style_secondary_2": true
           }
         }
@@ -33,6 +39,7 @@
       "block_order": [
         "e47f744d-182a-4c8f-8a5a-84766307d744",
         "template--14576240394343__ccfb6617-83b4-4de2-83c4-65544bf4c6ec-1674963476eebe4e6d-0",
+        "17f6ca92-858f-4cea-a475-64e4e9de7671",
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a"
       ],
       "settings": {
