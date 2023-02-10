@@ -90,11 +90,83 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "51d2de3f-a244-4dac-8199-9f0e6f0cc2e7": {
+      "type": "multirow",
+      "disabled": true,
+      "blocks": {
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rocket-launch-thin_1.png",
+            "caption": "Launching",
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wand-magic-sparkles-thin_1.png",
+            "caption": "Redesigning",
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/face-explode-thin_1.png",
+            "caption": "Rebasing",
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6b7aebfe-7fc5-4051-bb0d-ad93b517f050": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-dolly-thin_1.png",
+            "caption": "Replatforming",
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-0",
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-2",
+        "template--14581346566247__51d2de3f-a244-4dac-8199-9f0e6f0cc2e7-1676058144141c0363-1",
+        "6b7aebfe-7fc5-4051-bb0d-ad93b517f050"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "b4258eb6-ccf7-471a-8805-c84edd4aefb4",
-    "2b50573a-3ced-40ce-86e7-67f5ccc202fa"
+    "2b50573a-3ced-40ce-86e7-67f5ccc202fa",
+    "51d2de3f-a244-4dac-8199-9f0e6f0cc2e7"
   ]
 }

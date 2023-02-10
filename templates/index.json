@@ -63,6 +63,73 @@
         "padding_bottom": 100
       }
     },
+    "386141e7-dda8-4e3e-bd01-61adadf98aa0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rocket-launch-thin_1.png",
+            "title": "Launching",
+            "text": "<p>You’re getting quotes ranging from $5k to $150k for your MVP and you don’t know which way to go.<\/p><p><em>You have awesome products, an amazing vision, and big, hairy, audacious goals—and you need a beautiful, nimble, foundational framework to hit the ground running!<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "10d7ac74-a6a3-477e-a877-be290e380d38": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wand-magic-sparkles-thin_1.png",
+            "title": "Redesigning",
+            "text": "<p>You have traction and a loyal following  but your site is not converting quite like it used to.<\/p><p><em>You’re looking for simple, effective design magic that will give you better building blocks—so you can focus on your imagery and storytelling content to elevate your marketing efforts.<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/face-explode-thin_1.png",
+            "title": "Rebasing",
+            "text": "<p>You’re spending more of your precious headspace and budget keeping things held together with duct tape than making meaningful improvements.<\/p><p><em>A low-code rebase will eliminate your technical debt and give you a new foundation for growth.<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-dolly-thin_1.png",
+            "title": "Replatforming",
+            "text": "<p>You’re site is running on an old-school tech stack that costs a fortune and barely meets your needs.<\/p><p><em>Migrating to Shopify or Shopify Plus will likely save you money and almost certaintly free you up to focus on initiatives that have a better chance of moving the needle forward!<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-0",
+        "10d7ac74-a6a3-477e-a877-be290e380d38",
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-1",
+        "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "c8a609a0-284c-4d8e-9532-5f81ec069349": {
       "type": "multirow",
       "blocks": {
@@ -124,6 +191,7 @@
   },
   "order": [
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
+    "386141e7-dda8-4e3e-bd01-61adadf98aa0",
     "c8a609a0-284c-4d8e-9532-5f81ec069349"
   ]
 }
