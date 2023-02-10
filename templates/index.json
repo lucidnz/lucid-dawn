@@ -51,6 +51,9 @@
         "17f6ca92-858f-4cea-a475-64e4e9de7671",
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -60,60 +63,55 @@
         "padding_bottom": 100
       }
     },
-    "a61749b6-eff8-4646-a696-db44eca0b529": {
-      "type": "multirow",
-      "disabled": true,
+    "c71a0025-578f-479d-aeda-bdfeaa4aef20": {
+      "type": "multicolumn",
       "blocks": {
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-0": {
-          "type": "row",
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-0": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/smiling-woman-poses.jpg",
-            "caption": "Caption",
-            "heading": "Row",
+            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-1": {
-          "type": "row",
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-1": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/a-woman-in-her-shop.jpg",
-            "caption": "Caption",
-            "heading": "Row",
+            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-2": {
-          "type": "row",
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-2": {
+          "type": "column",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-0",
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-1",
-        "template--14576240394343__a61749b6-eff8-4646-a696-db44eca0b529-167496296028476860-2"
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-0",
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-1",
+        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-2"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h0",
-        "text_style": "subtitle",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "title": "Who’s this a good fit for?",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -121,6 +119,6 @@
   },
   "order": [
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
-    "a61749b6-eff8-4646-a696-db44eca0b529"
+    "c71a0025-578f-479d-aeda-bdfeaa4aef20"
   ]
 }
