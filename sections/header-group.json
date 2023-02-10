@@ -8,10 +8,10 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Shopify Plus Partners since the very beginning. Read more",
+            "text": "Unsure what you need? Get in touch",
             "text_alignment": "center",
             "color_scheme": "accent-1",
-            "link": "shopify:\/\/pages\/approach"
+            "link": "shopify:\/\/pages\/contact"
           }
         }
       },
