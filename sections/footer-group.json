@@ -8,34 +8,26 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "heading": "Work with us",
+            "menu": "main-menu"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Lucid",
+            "subtext": "<p>Founded in New Zealand in 2000, we have been working with Shopify since 2006—and are one of the original 12 agencies invited into the Shopify Partners program.<\/p>"
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "newsletter_enable": false,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_enable": true,
+        "newsletter_heading": "Stay in the loop with Lucid",
         "enable_follow_on_shop": false,
         "show_social": false,
         "enable_country_selector": false,
