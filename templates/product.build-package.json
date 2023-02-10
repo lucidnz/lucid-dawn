@@ -130,13 +130,43 @@
           "settings": {
             "heading": "Do I have to pay in-full upfront?",
             "icon": "none",
-            "row_content": "<p>No. We will authorize your card for the full amount but you will be billed in phases—starting with discovery.<\/p>",
+            "row_content": "<p>It depends on the scale of the project. If there are multiple phases and add-ons, then we will charge you at the beginning of each phase. If the project is small with just one phase, we will charge you upfront.<\/p>",
+            "page": ""
+          }
+        },
+        "798541b5-7fac-48ee-8746-6dbeb74fc85f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer refunds if I am not happy with the work?",
+            "icon": "none",
+            "row_content": "<p>We have worked with hundreds of companies over the past 22+ years and have only pulled out of projects on 2 or 3 occasions. If, for some reason, we realize we are not a good mutual fit once the project kicks off, we will be happy to end our relationship and refund any funds that have been used.<\/p>",
+            "page": ""
+          }
+        },
+        "265ecec8-41ed-42e9-afd4-16b7a02f1139": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Couldn’t I just pick a theme and do this myself?",
+            "icon": "none",
+            "row_content": "<p>If you have the headspace and bandwidth and experience with Shopify—and have been keeping up with all the changes, trends, and best-practices in the ecosystem—yes, absolutely you could certainly choose a theme and set up your store yourself. <\/p><p>But, if not, and you are struggling to make good decisions or determine what matters and what doesn’t—and you need a best-in-class, well-designed, reliable platform to accelerate the growth of your brand—we’d love to help!<\/p>",
+            "page": ""
+          }
+        },
+        "1f7e77bc-b552-4dc1-94c1-588ba040c9ca": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if my business is really unique and doesn’t fit the “low-code” process?",
+            "icon": "none",
+            "row_content": "<p>If you’re looking for something totally bespoke and custom, we may not be a good fit for you at this point.<\/p><p>But, before making that determination, <a href=\"\/pages\/contact\" title=\"Contact Lucid\">we would love to have a chat with you<\/a> about our process and explore your objectives and goals to see if, in fact, a low-code approach might be <em>exactly<\/em> what you need.<\/p><p>It’s so easy to get caught up in the complexities of building a business that we can lose sight of the forest through the trees—and end up over-designing and over-engineering when keeping things simple will actually help move the needle forward faster.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-0"
+        "template--14576240361575__7f3944c3-a326-4153-90d4-2434e953d62b-1675722980f6f8015e-0",
+        "798541b5-7fac-48ee-8746-6dbeb74fc85f",
+        "265ecec8-41ed-42e9-afd4-16b7a02f1139",
+        "1f7e77bc-b552-4dc1-94c1-588ba040c9ca"
       ],
       "settings": {
         "caption": "",
