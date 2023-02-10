@@ -14,8 +14,8 @@
         "template--14576240394343__ccfb6617-83b4-4de2-83c4-65544bf4c6ec-1674963476eebe4e6d-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Best-in-class low-code Shopify stores for content-driven brands.<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>Best-in-class low-code Shopify stores.<\/p>",
+            "heading_size": "hxl"
           }
         },
         "c3ec7dc2-ff01-48e6-8e9d-1112f5744dbb": {
@@ -29,7 +29,7 @@
         "17f6ca92-858f-4cea-a475-64e4e9de7671": {
           "type": "text",
           "settings": {
-            "text": "<p>For brands needing the guidance and expertise of an agency—without all the process!<\/p>"
+            "text": "<p>For brands needing the guidance and expertise of an agency. Without all the process.<\/p>"
           }
         },
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a": {
@@ -57,7 +57,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 100
@@ -113,8 +113,12 @@
         "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-1",
         "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-2"
       ],
+      "custom_css": [
+        ".h1 {text-align: center; max-width: 800px;}",
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
       "settings": {
-        "title": "",
+        "title": "A Shopify Plus agency for brands at an inflection point in their growth",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "adapt",
@@ -128,6 +132,57 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "c13e3882-6a7c-418b-aa64-e620bf2b28f7": {
+      "type": "rich-text",
+      "blocks": {
+        "1c876b6a-7712-4ab7-ac37-fa62f9c27468": {
+          "type": "caption",
+          "settings": {
+            "caption": "Why Low-Code?",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Leaner, more nimble sites enable you to move faster, make better decisions, and grow more sustainably—<em>wherever you’re at in your growth.<\/em><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adopting a pragmatic, “fundamentals-first mindset”, focused on best-practices, agility and flexibility will almost certainly get you where you’re going faster, more efficiently, and with a greater return on your investment.<\/p>"
+          }
+        },
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "shopify:\/\/products\/design-build-shopify-store",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1c876b6a-7712-4ab7-ac37-fa62f9c27468",
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-0",
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-1",
+        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "c8a609a0-284c-4d8e-9532-5f81ec069349": {
@@ -181,7 +236,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
+        "section_color_scheme": "background-2",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -192,6 +247,7 @@
   "order": [
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
     "386141e7-dda8-4e3e-bd01-61adadf98aa0",
+    "c13e3882-6a7c-418b-aa64-e620bf2b28f7",
     "c8a609a0-284c-4d8e-9532-5f81ec069349"
   ]
 }
