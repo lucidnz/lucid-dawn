@@ -63,55 +63,60 @@
         "padding_bottom": 100
       }
     },
-    "c71a0025-578f-479d-aeda-bdfeaa4aef20": {
-      "type": "multicolumn",
+    "c8a609a0-284c-4d8e-9532-5f81ec069349": {
+      "type": "multirow",
       "blocks": {
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-0": {
-          "type": "column",
+        "template--14580526645351__c8a609a0-284c-4d8e-9532-5f81ec069349-1676058144141c0363-0": {
+          "type": "row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Tattly-Screenshot.jpg",
+            "caption": "Foundational best-practices",
+            "heading": "Exceptional brands focus more on the <em>je ne sais quoi<\/em> than endless lists of must-haves and “requirements”.",
+            "text": "<p>Sustainable growth is more about honing foundational principles than building more features or adding more functionality.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-1": {
-          "type": "column",
+        "1a66e28a-33d6-4c25-96b9-0da3304a19c7": {
+          "type": "row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Eva-Fehren-Screenshot.jpg",
+            "caption": "Intentional simplicity",
+            "heading": "Think about your website like a beautiful tabletop book.",
+            "text": "<p>Everyone knows how to interact with a book—you flip forward and back and hold your finger between the pages to mark a spot to return to. Your website needs to be simple, elegant, engaging, and intutiive.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-2": {
-          "type": "column",
+        "3c1c9091-8063-4479-8dac-bed12d78f13e": {
+          "type": "row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/62bb15a661fd713cb7bcc81c_screencapture-feltandfat-2022-06-28-10_17_05-square-p-800.jpg",
+            "caption": "Objectives and goals",
+            "heading": "How can you reframe your list of desired features and functionality into objectives and goals?",
+            "text": "<p>Sites built on a lean, nimble, flexible foundation provide you with the building blocks for more rapid iteration and growth—informed more by data and less by whims and personal opinions.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-0",
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-1",
-        "template--14580526645351__c71a0025-578f-479d-aeda-bdfeaa4aef20-1676057605c546205e-2"
+        "template--14580526645351__c8a609a0-284c-4d8e-9532-5f81ec069349-1676058144141c0363-0",
+        "1a66e28a-33d6-4c25-96b9-0da3304a19c7",
+        "3c1c9091-8063-4479-8dac-bed12d78f13e"
       ],
       "settings": {
-        "title": "Who’s this a good fit for?",
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -119,6 +124,6 @@
   },
   "order": [
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
-    "c71a0025-578f-479d-aeda-bdfeaa4aef20"
+    "c8a609a0-284c-4d8e-9532-5f81ec069349"
   ]
 }
