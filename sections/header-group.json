@@ -23,6 +23,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".h2 {color: rgba(var(--color-foreground), 1);}"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "logo_position": "middle-left",
