@@ -85,15 +85,25 @@
         "template--14580526612583__78b189b0-c95e-4900-9500-42b66ea0692b-1675814581787458c4-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can we buy this add-on by itself without a full build?",
+            "heading": "Can I buy this “{{ product.title }}” add-on by itself without a project?",
             "icon": "none",
-            "row_content": "<p>Good question. <\/p>",
+            "row_content": "<p>That depends on the add-on and the state of your existing website. <a href=\"\/pages\/contact\" title=\"Contact Lucid\">Let’s talk about it<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "4303706c-e4ee-4c0c-ab3e-443ad9648ab6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if the service or support I am needing is not listed in the add-ons?",
+            "icon": "none",
+            "row_content": "<p><a href=\"\/pages\/contact\" title=\"Contact Lucid\">Get in touch<\/a> and we will be happy to discuss your needs to see if we might be able to help.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "template--14580526612583__78b189b0-c95e-4900-9500-42b66ea0692b-1675814581787458c4-0"
+        "template--14580526612583__78b189b0-c95e-4900-9500-42b66ea0692b-1675814581787458c4-0",
+        "4303706c-e4ee-4c0c-ab3e-443ad9648ab6"
       ],
       "settings": {
         "caption": "",
