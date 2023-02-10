@@ -59,8 +59,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "743745db-180a-4752-8102-4241c9557567": {
@@ -76,7 +76,7 @@
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’ve been designing, building, optimizing, and launching Shopify stores since 2006! In fact, we are one of the original 12 agencies invited into the Shopify Partners program. During this time, we have worked on hundreds of projects from tiny setup jobs to massive headless builds. <\/p><p>We’re able to turn around higher quality work faster through focus and discipline—and by leading with expertise. We don’t cut corners but we also don’t do work that isn’t needed!<\/p><p><a href=\"\/pages\/contact\" title=\"Contact Lucid\"><em>Feel free to get in touch<\/em><\/a><em> to find out more about our approach.<\/em><\/p>"
+            "text": "<p>We’ve been designing, building, optimizing, and launching Shopify stores since 2006! In fact, we are one of the original 12 agencies invited into the Shopify Partners program. During this time, we’ve worked on hundreds of projects from tiny setup jobs to massive headless builds. <\/p><p>We’re able to turn around higher quality work faster through focus and discipline—and by leading with expertise. We don’t cut corners but we also don’t do work that isn’t needed!<\/p><p><a href=\"\/pages\/contact\" title=\"Contact Lucid\"><em>Feel free to get in touch<\/em><\/a><em> to find out more about our approach.<\/em><\/p>"
           }
         },
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2": {
@@ -173,8 +173,8 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7": {
@@ -224,8 +224,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "c8a609a0-284c-4d8e-9532-5f81ec069349": {
@@ -282,8 +282,8 @@
         "section_color_scheme": "background-2",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "e17da372-a91f-4b81-8e35-d47c7dde1555": {
@@ -324,8 +324,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     }
   },
