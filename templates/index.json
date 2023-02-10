@@ -63,6 +63,49 @@
         "padding_bottom": 100
       }
     },
+    "743745db-180a-4752-8102-4241c9557567": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Launch in just 8 weeks!<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have been designing, building, optimizing, and launching Shopify stores since 2006! In fact, we are one of the original 12 agencies invited into the Shopify Partners program. During this time, we have worked on hundreds of projects from tiny setup jobs to massive headless builds. <\/p><p>We are able to turn around higher quality work faster through focus and discipline—and by leading with expertise. We don’t cut corners but we also don’t do work that is not needed!<\/p><p><a href=\"\/pages\/contact\" title=\"Contact Lucid\"><em>Feel free to get in touch<\/em><\/a><em> to find out more about our approach.<\/em><\/p>"
+          }
+        },
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-0",
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1",
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
     "386141e7-dda8-4e3e-bd01-61adadf98aa0": {
       "type": "multicolumn",
       "blocks": {
@@ -288,6 +331,7 @@
   },
   "order": [
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
+    "743745db-180a-4752-8102-4241c9557567",
     "386141e7-dda8-4e3e-bd01-61adadf98aa0",
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7",
     "c8a609a0-284c-4d8e-9532-5f81ec069349",
