@@ -83,12 +83,12 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/quick-launch",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "Get Started",
+            "button_link_2": "shopify:\/\/products\/design-build-shopify-store",
+            "button_style_secondary_2": true
           }
         }
       },
