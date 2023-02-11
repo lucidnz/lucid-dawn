@@ -7,7 +7,7 @@
           "type": "caption",
           "settings": {
             "caption": "Shopify Plus Partners since the very beginning",
-            "text_style": "subtitle",
+            "text_style": "caption-with-letter-spacing",
             "text_size": "small"
           }
         },
