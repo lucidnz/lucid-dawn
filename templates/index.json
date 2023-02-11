@@ -78,24 +78,11 @@
           "settings": {
             "text": "<p>We’ve been designing, building, optimizing, and launching Shopify stores since 2006! In fact, we are one of the original 12 agencies invited into the Shopify Partners program. During this time, we’ve worked on hundreds of projects from tiny setup jobs to massive headless builds. <\/p><p>We’re able to turn around higher quality work faster through focus and discipline—and by leading with expertise. We don’t cut corners but we also don’t do work that isn’t needed!<\/p><p><a href=\"\/pages\/contact\" title=\"Contact Lucid\"><em>Feel free to get in touch<\/em><\/a><em> to find out more about our approach.<\/em><\/p>"
           }
-        },
-        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/quick-launch",
-            "button_style_secondary": false,
-            "button_label_2": "Get Started",
-            "button_link_2": "shopify:\/\/products\/design-build-shopify-store",
-            "button_style_secondary_2": true
-          }
         }
       },
       "block_order": [
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-0",
-        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1",
-        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2"
+        "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1"
       ],
       "settings": {
         "desktop_content_position": "center",
