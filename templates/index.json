@@ -69,19 +69,18 @@
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Launch in just 8 weeks!<\/p>",
+            "heading": "<p>Quick Launch<\/p>",
             "heading_size": "h1"
           }
         },
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’ve been designing, building, optimizing, and launching Shopify stores since 2006! In fact, we are one of the original 12 agencies invited into the Shopify Partners program. During this time, we’ve worked on hundreds of projects from tiny setup jobs to massive headless builds. <\/p><p>We’re able to turn around higher quality work faster through focus and discipline—and by leading with expertise. We don’t cut corners but we also don’t do work that isn’t needed!<\/p><p><a href=\"\/pages\/contact\" title=\"Contact Lucid\"><em>Feel free to get in touch<\/em><\/a><em> to find out more about our approach.<\/em><\/p>"
+            "text": "<p>Depending on the complexity of your needs, we can turn around rebases in as little as 3–4 weeks and platform migrations in 6–8.<\/p>"
           }
         },
         "template--14580526645351__743745db-180a-4752-8102-4241c9557567-1676066906df2d6d42-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "Learn More",
             "button_link": "shopify:\/\/pages\/quick-launch",
