@@ -163,7 +163,7 @@
       "settings": {
         "title": "Lucid is a Shopify Plus agency for brands at an inflection point in their growth.",
         "heading_size": "h2",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "circle",
         "columns_desktop": 4,
         "column_alignment": "left",
@@ -171,7 +171,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-2",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 56,
         "padding_bottom": 56
