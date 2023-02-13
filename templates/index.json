@@ -8,14 +8,14 @@
           "settings": {
             "caption": "Shopify Plus Partners since the very beginning",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "small"
+            "text_size": "large"
           }
         },
         "template--14576240394343__ccfb6617-83b4-4de2-83c4-65544bf4c6ec-1674963476eebe4e6d-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Best-in-class “low-code” Shopify Plus stores. For brands needing agency expertise—with a nimbler process.<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>Best-in-class “low-code” Shopify Plus stores for brands needing agency expertise—without all the agency process.<\/p>",
+            "heading_size": "h0"
           }
         },
         "c3ec7dc2-ff01-48e6-8e9d-1112f5744dbb": {
@@ -99,8 +99,8 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": false,
+        "color_scheme": "accent-2",
+        "full_width": true,
         "padding_top": 56,
         "padding_bottom": 56
       }
