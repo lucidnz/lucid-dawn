@@ -241,7 +241,7 @@
         "background_style": "none",
         "button_label": "We Can Help!",
         "button_link": "shopify:\/\/products\/design-build-shopify-store",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 60,
@@ -321,6 +321,7 @@
     },
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1c876b6a-7712-4ab7-ac37-fa62f9c27468": {
           "type": "caption",
@@ -421,8 +422,8 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
-        "section_color_scheme": "background-2",
-        "row_color_scheme": "background-2",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 60,
         "padding_bottom": 60
@@ -430,6 +431,7 @@
     },
     "e17da372-a91f-4b81-8e35-d47c7dde1555": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-0": {
           "type": "heading",
@@ -472,6 +474,7 @@
     },
     "47074cb9-dabe-408a-a7e3-b603408d7206": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
