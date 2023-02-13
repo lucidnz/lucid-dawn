@@ -107,6 +107,7 @@
     },
     "386141e7-dda8-4e3e-bd01-61adadf98aa0": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--14580526645351__386141e7-dda8-4e3e-bd01-61adadf98aa0-1676057605c546205e-0": {
           "type": "column",
@@ -169,6 +170,77 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "862027b5-5e1b-4004-9612-942bab05b09f": {
+      "type": "multicolumn",
+      "blocks": {
+        "267dcbf5-bf56-46ed-97cb-153fba08c00f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rocket-launch-thin_1.png",
+            "title": "Launching",
+            "text": "<p>You’re getting Shopify quotes ranging from $10k to $150k and you don’t know who to listen to.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8051559d-6442-4230-a7b2-0b51024709c6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wand-magic-sparkles-thin_1.png",
+            "title": "Redesigning",
+            "text": "<p>You have traction but your site is feeling tired or lacking pizzaz and is not converting as well as it could be.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "399d1fb0-d820-41e1-a636-c5b5bc512c1c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/face-explode-thin_1.png",
+            "title": "Rebasing",
+            "text": "<p>You’re spending more of your budget and headspace keeping your site running than making meaningful improvements.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bed3e3b-31d3-40c5-929e-70d2a60de6c5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-dolly-thin_1.png",
+            "title": "Replatforming",
+            "text": "<p>Your store is running on a legacy tech stack that costs a fortune and barely meets your needs.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "267dcbf5-bf56-46ed-97cb-153fba08c00f",
+        "8051559d-6442-4230-a7b2-0b51024709c6",
+        "399d1fb0-d820-41e1-a636-c5b5bc512c1c",
+        "8bed3e3b-31d3-40c5-929e-70d2a60de6c5"
+      ],
+      "custom_css": [
+        ".h1 {text-align: center;}",
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
+      "settings": {
+        "title": "Lucid specializes in helping brands at an inflection point in their growth!",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "We Can Help!",
+        "button_link": "shopify:\/\/products\/design-build-shopify-store",
         "color_scheme": "background-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -420,6 +492,7 @@
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
     "743745db-180a-4752-8102-4241c9557567",
     "386141e7-dda8-4e3e-bd01-61adadf98aa0",
+    "862027b5-5e1b-4004-9612-942bab05b09f",
     "89991a57-7c46-45bf-a2ce-e7c7d78b2bea",
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7",
     "c8a609a0-284c-4d8e-9532-5f81ec069349",
