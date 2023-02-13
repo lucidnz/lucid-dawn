@@ -22,7 +22,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>For brands needing agency expertise—without all the agency process.<\/p>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "17f6ca92-858f-4cea-a475-64e4e9de7671": {
@@ -232,7 +232,7 @@
         ".title-wrapper-with-link {justify-content: center;}"
       ],
       "settings": {
-        "title": "Lucid specializes in Shopify Plus builds for brands at an inflection point in their growth.",
+        "title": "Shopify Plus builds for marketing-focused brands at an inflection point in their growth.",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
