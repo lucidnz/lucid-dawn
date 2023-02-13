@@ -10,7 +10,7 @@
           "settings": {
             "text": "Unsure what you need? Get in touch",
             "text_alignment": "center",
-            "color_scheme": "accent-2",
+            "color_scheme": "accent-1",
             "link": "shopify:\/\/pages\/contact"
           }
         }
