@@ -161,9 +161,9 @@
       ],
       "settings": {
         "title": "Lucid is a Shopify Plus agency for brands at an inflection point in their growth.",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "circle",
+        "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
@@ -174,6 +174,77 @@
         "swipe_on_mobile": true,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "89991a57-7c46-45bf-a2ce-e7c7d78b2bea": {
+      "type": "multirow",
+      "disabled": true,
+      "blocks": {
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rocket-launch-thin_1.png",
+            "caption": "",
+            "heading": "Launching",
+            "text": "<p>You’re getting quotes ranging from $5k to $150k for your MVP and you don’t know which way to go.<\/p><p><em>You have awesome products, an amazing vision, and big, hairy, audacious goals—and you need a beautiful, nimble, foundational framework to hit the ground running!<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wand-magic-sparkles-thin_1.png",
+            "caption": "",
+            "heading": "Redesigning",
+            "text": "<p>You have traction and a loyal following  but your site is not converting quite like it used to.<\/p><p><em>You’re looking for simple, intentional design magic that will give you better building blocks—so you can focus on your imagery and storytelling content to elevate your marketing efforts.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/face-explode-thin_1.png",
+            "caption": "",
+            "heading": "Rebasing",
+            "text": "<p>You’re spending more of your precious headspace and budget keeping things held together with duct tape than making meaningful improvements.<\/p><p><em>A low-code rebase will eliminate your technical debt and give you a new foundation for growth.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "395cc458-3535-49c6-a849-3eb09af253a3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-dolly-thin_1.png",
+            "caption": "",
+            "heading": "Replatforming",
+            "text": "<p>You’re site is running on an old-school tech stack that costs a fortune and barely meets your needs.<\/p><p><em>Migrating to Shopify or Shopify Plus will likely save you money and almost certaintly free you up to focus on initiatives that have a better chance of moving the needle forward!<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-0",
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-1",
+        "template--14580526645351__89991a57-7c46-45bf-a2ce-e7c7d78b2bea-167631697148b54199-2",
+        "395cc458-3535-49c6-a849-3eb09af253a3"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-2",
+        "row_color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7": {
@@ -332,6 +403,7 @@
     "ccfb6617-83b4-4de2-83c4-65544bf4c6ec",
     "743745db-180a-4752-8102-4241c9557567",
     "386141e7-dda8-4e3e-bd01-61adadf98aa0",
+    "89991a57-7c46-45bf-a2ce-e7c7d78b2bea",
     "c13e3882-6a7c-418b-aa64-e620bf2b28f7",
     "c8a609a0-284c-4d8e-9532-5f81ec069349",
     "e17da372-a91f-4b81-8e35-d47c7dde1555"
