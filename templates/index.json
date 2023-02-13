@@ -377,6 +377,49 @@
         "padding_bottom": 60
       }
     },
+    "99070fbd-e1d6-42ed-9b59-e3ead120d2c5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Upgrade to a “low-code” Shopify Plus build today.<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "shopify:\/\/products\/design-build-shopify-store",
+            "button_style_secondary": false,
+            "button_label_2": "Learn More",
+            "button_link_2": "shopify:\/\/pages\/approach",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-0",
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-1",
+        "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "47074cb9-dabe-408a-a7e3-b603408d7206": {
       "type": "featured-blog",
       "disabled": true,
@@ -403,6 +446,7 @@
     "862027b5-5e1b-4004-9612-942bab05b09f",
     "89991a57-7c46-45bf-a2ce-e7c7d78b2bea",
     "c8a609a0-284c-4d8e-9532-5f81ec069349",
+    "99070fbd-e1d6-42ed-9b59-e3ead120d2c5",
     "47074cb9-dabe-408a-a7e3-b603408d7206"
   ]
 }
