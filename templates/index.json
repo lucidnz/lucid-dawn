@@ -262,7 +262,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Leaner, more nimble sites enable you to move faster, make better decisions, and grow more sustainably—<em>wherever you’re at in your growth.<\/em><\/p>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-1": {
@@ -317,7 +317,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Eva-Fehren-Screenshot.jpg",
             "caption": "Intentional simplicity",
-            "heading": "Think about your website like a beautiful tabletop book.",
+            "heading": "Think about your site like a beautiful tabletop book.",
             "text": "<p>Everyone knows how to interact with a book—you flip forward and back and hold your finger between the pages to mark a spot to return to. Your website needs to be simple, elegant, engaging, and intutiive.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -327,8 +327,8 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/62bb15a661fd713cb7bcc81c_screencapture-feltandfat-2022-06-28-10_17_05-square-p-800.jpg",
-            "caption": "Objectives and goals",
-            "heading": "How can you reframe your list of desired features and functionality into objectives and goals?",
+            "caption": "Where do you want to grow?",
+            "heading": "Reframe feature requests into objectives and goals.",
             "text": "<p>Sites built on a lean, nimble, flexible foundation provide you with the building blocks for more rapid iteration and growth—informed more by data and less by whims and personal opinions.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -343,14 +343,14 @@
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
         "section_color_scheme": "background-2",
-        "row_color_scheme": "background-1",
+        "row_color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 60,
         "padding_bottom": 60
@@ -363,7 +363,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Even if you’re building “the next big thing”, a low-code or even no-code mentality will likely get you there faster.<\/p>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-1": {
@@ -395,7 +395,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 80
+        "padding_bottom": 40
       }
     }
   },
