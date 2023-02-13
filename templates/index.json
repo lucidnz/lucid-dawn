@@ -52,7 +52,7 @@
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a"
       ],
       "custom_css": [
-
+        ".hxl {line-height: 1.1em;}"
       ],
       "settings": {
         "desktop_content_position": "center",
