@@ -107,6 +107,9 @@
         "description",
         "86170d1a-40da-470c-9400-610e49e77eb4"
       ],
+      "custom_css": [
+        "h1 {line-height: 1.1em;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
