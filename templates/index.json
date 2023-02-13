@@ -319,58 +319,6 @@
         "padding_bottom": 36
       }
     },
-    "c13e3882-6a7c-418b-aa64-e620bf2b28f7": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1c876b6a-7712-4ab7-ac37-fa62f9c27468": {
-          "type": "caption",
-          "settings": {
-            "caption": "Why Low-Code?",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Leaner, more nimble sites enable you to move faster, make better decisions, and grow more sustainably—<em>wherever you’re at in your growth.<\/em><\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Adopting a pragmatic, “fundamentals-first mindset”, focused on best-practices, agility and flexibility will almost certainly get you where you’re going faster, more efficiently, and with a greater return on your investment.<\/p>"
-          }
-        },
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get Started",
-            "button_link": "shopify:\/\/products\/design-build-shopify-store",
-            "button_style_secondary": false,
-            "button_label_2": "Contact Us",
-            "button_link_2": "shopify:\/\/pages\/contact",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "1c876b6a-7712-4ab7-ac37-fa62f9c27468",
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-0",
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-1",
-        "template--14580526645351__c13e3882-6a7c-418b-aa64-e620bf2b28f7-16760581850f172ac4-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "c8a609a0-284c-4d8e-9532-5f81ec069349": {
       "type": "multirow",
       "blocks": {
@@ -429,49 +377,6 @@
         "padding_bottom": 60
       }
     },
-    "e17da372-a91f-4b81-8e35-d47c7dde1555": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Even if you’re building “the next big thing”, a low-code or even no-code mentality will likely get you there faster.<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Great brands grow by staying lean and nimble, using authentic storytelling and marketing to build genuine engagement. Your best chance of achieving genuine growth is through keeping things simple and focused—sticking to best practices and spending your limited time, energy, and money on the things that matter.<\/p>"
-          }
-        },
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get Started",
-            "button_link": "shopify:\/\/products\/design-build-shopify-store",
-            "button_style_secondary": false,
-            "button_label_2": "Contact Us",
-            "button_link_2": "shopify:\/\/pages\/contact",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-0",
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-1",
-        "template--14580526645351__e17da372-a91f-4b81-8e35-d47c7dde1555-167606393803cb8547-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "47074cb9-dabe-408a-a7e3-b603408d7206": {
       "type": "featured-blog",
       "disabled": true,
@@ -497,9 +402,7 @@
     "386141e7-dda8-4e3e-bd01-61adadf98aa0",
     "862027b5-5e1b-4004-9612-942bab05b09f",
     "89991a57-7c46-45bf-a2ce-e7c7d78b2bea",
-    "c13e3882-6a7c-418b-aa64-e620bf2b28f7",
     "c8a609a0-284c-4d8e-9532-5f81ec069349",
-    "e17da372-a91f-4b81-8e35-d47c7dde1555",
     "47074cb9-dabe-408a-a7e3-b603408d7206"
   ]
 }
