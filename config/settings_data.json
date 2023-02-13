@@ -41,7 +41,7 @@
     "inputs_shadow_horizontal_offset": 4,
     "inputs_shadow_vertical_offset": 4,
     "inputs_shadow_blur": 0,
-    "card_style": "card",
+    "card_style": "standard",
     "card_image_padding": 20,
     "card_text_alignment": "center",
     "card_color_scheme": "background-2",
@@ -49,8 +49,8 @@
     "card_border_opacity": 100,
     "card_corner_radius": 4,
     "card_shadow_opacity": 5,
-    "card_shadow_horizontal_offset": 6,
-    "card_shadow_vertical_offset": 6,
+    "card_shadow_horizontal_offset": 4,
+    "card_shadow_vertical_offset": 4,
     "card_shadow_blur": 0,
     "collection_card_style": "card",
     "collection_card_image_padding": 20,
@@ -81,12 +81,12 @@
     "text_boxes_shadow_horizontal_offset": 0,
     "text_boxes_shadow_vertical_offset": 0,
     "text_boxes_shadow_blur": 0,
-    "media_border_thickness": 0,
-    "media_border_opacity": 0,
+    "media_border_thickness": 1,
+    "media_border_opacity": 100,
     "media_radius": 6,
-    "media_shadow_opacity": 0,
-    "media_shadow_horizontal_offset": 0,
-    "media_shadow_vertical_offset": 0,
+    "media_shadow_opacity": 5,
+    "media_shadow_horizontal_offset": 6,
+    "media_shadow_vertical_offset": 6,
     "media_shadow_blur": 0,
     "popup_border_thickness": 0,
     "popup_border_opacity": 0,
@@ -285,7 +285,9 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".multicolumn-list h3,.multicolumn-list p {margin-bottom: 1em;}"
+      ".multicolumn-list h3,.multicolumn-list p {margin-bottom: 1em;}",
+      ".h5 {font-size: 1.5rem; line-height: 1.5em;}",
+      ".price {font-size: 1.25rem;}"
     ]
   }
 }
