@@ -10,6 +10,7 @@
     },
     "b4258eb6-ccf7-471a-8805-c84edd4aefb4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14581346566247__b4258eb6-ccf7-471a-8805-c84edd4aefb4-16759044839aaefd60-0": {
           "type": "heading",
@@ -40,6 +41,7 @@
     },
     "df81cbab-1a26-4bc8-bc8e-f1a5edba53f5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14581346566247__df81cbab-1a26-4bc8-bc8e-f1a5edba53f5-16763293749547b461-0": {
           "type": "heading",
@@ -80,11 +82,58 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
+    },
+    "9e104ef3-43d1-45f9-b34a-771df7b0fe8e": {
+      "type": "multirow",
+      "blocks": {
+        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rabbit-running-thin_1.png",
+            "caption": "Caption",
+            "heading": "Even if you’re building “the next big thing”, a low-code mentality will get you there faster.",
+            "text": "<p>Great brands grow by staying lean and nimble, using authentic storytelling and marketing to build genuine engagement. Your best chance of achieving genuine growth is through keeping things simple and focused—sticking to best practices and spending your limited time, energy, and money on the things that matter.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chart-line-up-thin_1.png",
+            "caption": "Caption",
+            "heading": "Leaner, more nimble sites enable you to move faster, make better decisions, and grow more sustainably—<em>wherever you’re at in your growth.<\/em>",
+            "text": "<p>Adopting a pragmatic, “fundamentals-first mindset”, focused on best-practices, agility and flexibility will almost certainly get you where you’re going faster, more efficiently, and with a greater return on your investment.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-0",
+        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-1"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
     "main",
     "b4258eb6-ccf7-471a-8805-c84edd4aefb4",
-    "df81cbab-1a26-4bc8-bc8e-f1a5edba53f5"
+    "df81cbab-1a26-4bc8-bc8e-f1a5edba53f5",
+    "9e104ef3-43d1-45f9-b34a-771df7b0fe8e"
   ]
 }
