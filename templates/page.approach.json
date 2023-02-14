@@ -160,12 +160,24 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "8023c630-b01a-4233-b3ce-70471cc255bc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brain-circuit-thin_1.png",
+            "caption": "What’s Different About Lucid?",
+            "heading": "We bring firm discipline to our projects—leading with experience and expertise.",
+            "text": "<p>Freelancers will do what they’re asked to but it may not be what’s actually needed. Internal teams struggle with pushing back and saying no. <\/p><p>We will help you focus on your objectives and outcomes—saving nice-to-haves for later—so you can launch on time and within budget with a rock-solid framework for accelerated growth.<\/p>",
+            "button_label": "Get Started",
+            "button_link": "shopify:\/\/products\/design-build-shopify-store"
+          }
         }
       },
       "block_order": [
         "1ff9f7e2-dcc5-4066-b469-2bbe1d1634ff",
         "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-0",
-        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-1"
+        "template--14581346566247__9e104ef3-43d1-45f9-b34a-771df7b0fe8e-1676329694540cd21e-1",
+        "8023c630-b01a-4233-b3ce-70471cc255bc"
       ],
       "settings": {
         "image_height": "adapt",
@@ -177,7 +189,7 @@
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
         "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
+        "row_color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 40,
         "padding_bottom": 40
