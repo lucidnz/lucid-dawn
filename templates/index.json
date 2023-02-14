@@ -360,6 +360,9 @@
         "1a66e28a-33d6-4c25-96b9-0da3304a19c7",
         "3c1c9091-8063-4479-8dac-bed12d78f13e"
       ],
+      "custom_css": [
+        ".image-with-text__heading {line-height: 1.2em;}"
+      ],
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
