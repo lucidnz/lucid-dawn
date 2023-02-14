@@ -15,14 +15,14 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Best-in-class “low-code” Shopify Plus stores.<\/p>",
-            "heading_size": "hxl"
+            "heading_size": "h0"
           }
         },
         "c3ec7dc2-ff01-48e6-8e9d-1112f5744dbb": {
           "type": "heading",
           "settings": {
             "heading": "<p>For brands needing agency expertise—without all the agency process.<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "17f6ca92-858f-4cea-a475-64e4e9de7671": {
@@ -383,8 +383,8 @@
         "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Upgrade to a “low-code” Shopify Plus build today.<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>Upgrade to a “low-code” Shopify Plus build.<\/p>",
+            "heading_size": "h1"
           }
         },
         "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-1": {
