@@ -326,7 +326,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Tattly-Screenshot.jpg",
             "caption": "Foundational best-practices",
-            "heading": "Exceptional brands focus more on the <em>je ne sais quoi<\/em> than endless lists of must-haves and “requirements”.",
+            "heading": "Exceptional brands focus more on the <em>je ne sais quoi<\/em> than endless lists of “requirements”.",
             "text": "<p>Sustainable growth is more about honing foundational principles than building more features or adding more functionality.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -382,7 +382,7 @@
         "template--14580526645351__99070fbd-e1d6-42ed-9b59-e3ead120d2c5-16763307990629de61-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Upgrade to a “low-code” Shopify Plus build.<\/p>",
+            "heading": "<p>Upgrade to “low-code” on Shopify Plus.<\/p>",
             "heading_size": "h1"
           }
         },
