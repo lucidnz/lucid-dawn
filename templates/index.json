@@ -52,11 +52,11 @@
         "7bebca07-fc3f-4508-b1e2-d754b8d0a32a"
       ],
       "custom_css": [
-        ".hxl {line-height: 1.1em;}"
+        ".h0 {line-height: 1.1em;}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -228,8 +228,7 @@
         "8bed3e3b-31d3-40c5-929e-70d2a60de6c5"
       ],
       "custom_css": [
-        ".h1 {text-align: center;}",
-        ".title-wrapper-with-link {justify-content: center;}"
+
       ],
       "settings": {
         "title": "Shopify Plus builds for marketing-focused brands at an inflection point in their growth.",
